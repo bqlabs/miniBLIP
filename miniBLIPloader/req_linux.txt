@@ -1,0 +1,3 @@
+sudo apt-get install libicu52:i386
+sudo apt-get install --reinstall gtk2-engines-murrine:i386
+sudo apt-get install libcanberra-gtk-module:i386
